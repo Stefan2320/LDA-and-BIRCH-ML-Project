@@ -4,8 +4,7 @@ This is a project that is for the Practical Machine Learning course, the main go
 and to put in practice unsupervised machine learning methods. For this task I chose the Latent
 Dirichlet Allocation (LDA) method which does topic modelling and is very similar to clustering
 by finding topics that a document belongs to, on the basis of words that it contains. The second
-method I chose is Balanced Iterative Reducing and Clustering using Hierarchies (BIRCH) algo-
-rithm which is used to perform hierarchical clustering over particularly large data-sets. These
+method I chose is Balanced Iterative Reducing and Clustering using Hierarchies (BIRCH) algorithm which is used to perform hierarchical clustering over particularly large data-sets. These
 methods are applied on a data-set which has two clusters.
 
 
